@@ -47,16 +47,13 @@ git clone https://github.com/yashgupta847/Portfolio.git
 
 ## 🌐 Live Demo
 
-Visit the live website at: [https://yashgupta847.github.io/Portfolio/](https://yashgupta847.github.io/Portfolio/)
+Visit the live website at: [(https://portfolio-five-silk-81.vercel.app/#projects))
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
 - GitHub: [@yashgupta847](https://github.com/yashgupta847)
-- Email: yash@example.com
+- Email: yashgupta5046@gmail.com
 
 ---
 
