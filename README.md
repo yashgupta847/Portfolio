@@ -47,7 +47,7 @@ git clone https://github.com/yashgupta847/Portfolio.git
 
 ## 🌐 Live Demo
 
-Visit the live website at: [(https://portfolio-five-silk-81.vercel.app/#projects))
+Visit the live website at: [(https://portfolio-five-silk-81.vercel.app))
 
 
 ## 📫 Contact
